@@ -201,7 +201,7 @@ scale(0.2);
 
 function mousePressed(){
   
-  background(y/2,y,mouseX/3,30);
+  background(y/2,y,mouseX/3,40);
 
 }
 
